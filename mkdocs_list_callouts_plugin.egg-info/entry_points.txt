@@ -1,2 +1,0 @@
-[mkdocs.plugins]
-list_callouts = list_callouts:ListCalloutsPlugin

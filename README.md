@@ -1,4 +1,4 @@
-## MkDocs List Callouts
+## MkDocs List Callouts Plugin
 
 [中文](#mkdocs-list-callouts-zh-cn)
 
@@ -15,8 +15,8 @@ This plugin has been tested and works well with the [mkdocs-material](https://gi
 This plugin is not yet published on PyPI. Please install it using the following method:
 
 ```bash
-git clone https://github.com/EmergentTwilight/mkdocs-list-callouts.git
-cd mkdocs-list-callouts
+git clone https://github.com/EmergentTwilight/mkdocs-list-callouts-plugin.git
+cd mkdocs-list-callouts-plugin
 pip install .
 ```
 
@@ -93,7 +93,7 @@ plugins:
 To use custom styles, you can copy and modify the [list-callouts-default.css](assets/list-callouts-default.css) file, set `insert_default_css` to `false`, and reference your custom CSS file in your `mkdocs.yml`.
 
 
-## MkDocs List Callouts (zh-CN)
+## MkDocs List Callouts Plugin (zh-CN)
 
 ### 简介
 
@@ -108,8 +108,8 @@ To use custom styles, you can copy and modify the [list-callouts-default.css](as
 本插件目前尚未发布至PyPI，请通过以下方式进行安装：
 
 ```bash
-git clone https://github.com/EmergentTwilight/mkdocs-list-callouts.git
-cd mkdocs-list-callouts
+git clone https://github.com/EmergentTwilight/mkdocs-list-callouts-plugin.git
+cd mkdocs-list-callouts-plugin
 pip install .
 ```
 
