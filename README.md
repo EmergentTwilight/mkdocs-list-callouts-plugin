@@ -1,6 +1,6 @@
 ## MkDocs List Callouts Plugin
 
-[中文](#mkdocs-list-callouts-zh-cn)
+[中文](#mkdocs-list-callouts-plugin-zh-cn)
 
 ### Introduction
 
